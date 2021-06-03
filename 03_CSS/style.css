@@ -1,0 +1,35 @@
+.navlink {
+  color: #bd2be2;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1543470388-80a8f5281639?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1868&q=80);
+  background-size: cover;
+}
+h2 {
+  color: #bd2be2;
+  text-align: center;
+  border: 5px solid rgba(255, 176, 170, 0.5);
+  cursor: pointer;
+}
+img {
+  float: right;
+}
+footer {
+  clear: both;
+  text-align: center;
+}
+p {
+  border: 1px solid rgba(255, 176, 170, 0.5);
+  text-decoration: wavy;
+  text-transform: uppercase;
+  line-height: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: "Odibee Sans", Times, serif;
+  color: green;
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
